@@ -78,8 +78,8 @@ h6 {
   transition: all ease-in-out 0.5s;
   z-index: 9997;
   transition: all 0.5s;
-  padding: 0 15px;
-  background: #040b14;
+  padding: 0 1 5px;
+  background: #39107a;
   overflow-y: auto;
 }
 
@@ -350,7 +350,7 @@ section {
 .about .content h3 {
   font-weight: 700;
   font-size: 26px;
-  color: #173b6c;
+  color: #971cb6;
 }
 
 .about .content ul {
