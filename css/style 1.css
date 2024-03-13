@@ -313,7 +313,7 @@ section {
 }
 
 .section-bg {
-  background: #f5f8fd;
+  background: #e9c0eb;
 }
 
 .section-title {
@@ -464,14 +464,14 @@ section {
   width: 1px;
   height: 10px;
   transition: 0.9s;
-  background-color: #149ddd;
+  background-color: #580952;
 }
 
 /*--------------------------------------------------------------
 # Resume
 --------------------------------------------------------------*/
 .resume .resume-title {
-  font-size: 26px;
+  font-size: 26px; 
   font-weight: 700;
   margin-top: 20px;
   margin-bottom: 20px;
